@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+nav{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+section{
+    background-color: antiquewhite;
+    background-position: center;
+}
+
+article{
+    background-color: rgb(179, 165, 145);
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside{
+   background-color: antiquewhite;
+    
+}
+
+footer{
+    background-color: antiquewhite;
+}
